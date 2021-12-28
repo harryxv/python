@@ -1,5 +1,5 @@
 """
-Hello World is about the
+Hello World is to demonstrate:
 Sting data type +
 Basic output static method
 basic programming structure:
