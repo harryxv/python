@@ -1,4 +1,4 @@
-#use iter() method to traverse data strcutres
+# use iter() method to traverse data structures
 mytuple = ("apple", "banana", "cherry")
 myit = iter(mytuple)
 

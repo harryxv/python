@@ -1,1 +1,0 @@
-# len methodprint(len("this is a string"))  # ->16, check how many characters in a stringthisList = ["apple", "banana", "cherry"]print(len(thisList))  # ->3, check how many elements in a list# type()# input()word = input("input your word > ")print(word)

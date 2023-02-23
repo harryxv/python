@@ -19,7 +19,7 @@ print(fruits[1])  # ->"banana"
 fruits.append("orange")
 print(fruits)  # ->['apple', 'banana', 'cherry', 'orange']
 
-##sort api
+# sort api
 days = ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"]
 days.sort()
 print(days)  # ->['FRIDAY', 'MONDAY', 'SATURDAY', 'SUNDAY', 'THURSDAY', 'TUESDAY', 'WEDNESDAY']

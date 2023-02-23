@@ -9,21 +9,21 @@ Binary Types:	bytes, bytearray, memoryview
 type operator: type(value)
 """
 
-#primitive data type
-#String
+# primitive data type
+# String
 print("this is String type")
 
-#Numeric: int, float, complex
-print(123) # int
+# Numeric: int, float, complex
+print(123)  # int
 print(type(123))
 
-print(123.45) #float
+print(123.45)  # float
 print(type(123.45))
 
-print(123+4j) #complex
-print(type(123+4j))
+print(123 + 4j)  # complex
+print(type(123 + 4j))
 
-#Boolean
+# Boolean
 print(True)
 print(type(True))
 

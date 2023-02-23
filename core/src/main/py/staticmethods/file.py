@@ -1,12 +1,10 @@
 # Reading from file; write to file
 # use open() function
-fromFile = open("len.py", "r")
-toFile = open("len_copy.txt", "w")
-for line in fromFile:
+src_file = open("len.py", "r")
+target_file = open("len_copy.txt", "w")
+for line in src_file:
     line = line.strip()
     print(line)
-    toFile.write(line)
-fromFile.close()
-toFile.close()
-
-
+    target_file.write(line)
+src_file.close()
+target_file.close()
